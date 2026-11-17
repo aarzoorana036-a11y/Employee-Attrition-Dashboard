@@ -4,8 +4,7 @@
 **An interactive Excel dashboard designed to analyse employee attrition and identify patterns influencing employee turnover.**
 
 ## Project Preview
-
-![Employee Attrition Dashboard](DASHBOARD-IMAGE.PNG.png)
+![Project Preview](Dashboard-image.png.png)
 
 ## Project Overview
 
